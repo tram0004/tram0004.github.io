@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+John is a senior Linux administrator at the University of Minnesota.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+John's other interests include cryptography, digital currencies, learning
+Spanish, and playing the guitar.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tram0004@umn.edu](mailto:tram0004+github@umn.edu)
