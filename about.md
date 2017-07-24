@@ -8,8 +8,8 @@ John is a senior Linux administrator at the University of Minnesota.
 
 ### More Information
 
-John's other interests include cryptography, digital currencies, learning
-Spanish, and playing the guitar.
+Some of John's other interests include devops, software development,
+cryptography, digital currencies, learning Spanish, and playing the guitar.
 
 ### Contact me
 
