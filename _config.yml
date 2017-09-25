@@ -6,14 +6,12 @@
 name: unless ($bogus) { ...
 
 # Short bio or description (displayed in the header)
-description: \# FIXME ADD DESCRIPTION HERE
+description: Knowing things is hard.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/tram0004/tram0004.github.io/master/images/down-to-his-kneecaps.png
 
-#
 # Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -28,7 +26,7 @@ footer-links:
   reddit: tram0004
   rss: true
   twitter: tram0004
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/8671425/john-trammell
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
